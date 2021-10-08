@@ -112,3 +112,8 @@ footer {
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
+
+/* TROUVER PAGE --------------------------------------------------------------------------*/
+#map_adresses {
+  margin-bottom: 30px;
+}

@@ -27,10 +27,9 @@ A page with a contact form containing the firstname, lastname, email, subject of
 
 ### Evolution du job:
 * Recherche d'inspiration // Moodboards (Behance, Pinterest, Google, ...)
-* Créer une gamme de couleurs sur Color Hunt
 * Dessins (structurer visuellement le site avant de commencer à coder)
 * HTML (et employer Bootstrap grid pour  le coté responsive ==> défini déjà plus ou moins dans les dessins)
-* Recherche de visuels libre de droits pour habiller ce site fictif (Behance? Pexels) ++++ les resizer (trouver site sympa pour faire ça)
+* Recherche de visuels libre de droits pour habiller ce site fictif (Behance & Pexels) ++++ les resizer (trouver site sympa pour faire ça)
 * Montrer l'évolution du job via captures écran et/ou photos
 * Mettre des "tags" sur la repository de ce job ("bootstrap", "restaurant", "HTML", "css", ...)
 
