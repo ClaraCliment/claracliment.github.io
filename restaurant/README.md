@@ -5,9 +5,9 @@
 Dans le cadre de la formation BeCode Web Developer, créer le site web d'un restaurant fictif. Style de restaurant au choix. 4 jours pour réalsier le job, 5 pages distinctes à créer avec Bootstrap. Prendre soin d'expliquer les étapes. Le site doit être responsible au moins en small et medium size. 
 
 
-### Qu'est-ce que c'est?
+### Url du site
 
-Placer ici le logo du resto
+[Découvrez le site ici!](https://claracliment.github.io/restaurant/contact.html)
 
 Restaurant Miam Miam
 * **Date du début:** 05/10/2021
@@ -29,10 +29,12 @@ A page with a contact form containing the firstname, lastname, email, subject of
 * Recherche d'inspiration // Moodboards (Behance, Pinterest, Google, ...)
 * Dessins (structurer visuellement le site avant de commencer à coder)
 * HTML (et employer Bootstrap grid pour le coté responsive ==> défini déjà plus ou moins dans les dessins)
-* Recherche de visuels libre de droits pour habiller ce site fictif (Behance & Pexels) ++++ les resizer (sinon ça ralenti l'affichge)
+* Recherche de visuels libre de droits pour habiller ce site fictif + les resizer (sinon ça ralenti l'affichge)
 * Montrer l'évolution du job via captures écran et/ou photos
 * Mettre des "tags" sur la repository de ce job ("bootstrap", "restaurant", "HTML", "css", ...)
 
+### Crédits image:
+Photos libres de droit provenant des sites: [Unsplash](https://unsplash.com/) & [Pexels](https://www.pexels.com/fr-fr/)
 
 ### Quelques images 
 
