@@ -9,7 +9,7 @@ Dans le cadre de la formation BeCode Web Developer, créer le site web d'un rest
 
 Placer ici le logo du resto
 
-Restaurant lorem (style encore à chosir).
+Restaurant Miam Miam
 * **Date du début:** 05/10/2021
 * * **Date de fin:** 12/10/2021 (à midi)
 * 
@@ -28,8 +28,8 @@ A page with a contact form containing the firstname, lastname, email, subject of
 ### Evolution du job:
 * Recherche d'inspiration // Moodboards (Behance, Pinterest, Google, ...)
 * Dessins (structurer visuellement le site avant de commencer à coder)
-* HTML (et employer Bootstrap grid pour  le coté responsive ==> défini déjà plus ou moins dans les dessins)
-* Recherche de visuels libre de droits pour habiller ce site fictif (Behance & Pexels) ++++ les resizer (trouver site sympa pour faire ça)
+* HTML (et employer Bootstrap grid pour le coté responsive ==> défini déjà plus ou moins dans les dessins)
+* Recherche de visuels libre de droits pour habiller ce site fictif (Behance & Pexels) ++++ les resizer (sinon ça ralenti l'affichge)
 * Montrer l'évolution du job via captures écran et/ou photos
 * Mettre des "tags" sur la repository de ce job ("bootstrap", "restaurant", "HTML", "css", ...)
 
